@@ -1,3 +1,3 @@
 module.exports = async(client) => {
-  console.log(`${client.user.}`)
+  console.log(`${client.user.tag} is READY!`)
 }
